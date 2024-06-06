@@ -652,7 +652,7 @@ void Render(OpenGL *ogl)
 
 
 	glEnd();
-	glColor3d(0.5, 0, 0.5);
+	glColor3d(0.7, 0.7, 0.7);
 	glLineWidth(1); //возвращаем ширину линии = 1
 	glBegin(GL_LINES); //построим отрезок AB
 	glEnd();
